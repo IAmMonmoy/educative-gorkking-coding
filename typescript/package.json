@@ -1,0 +1,7 @@
+{
+  "name": "educative",
+  "version": "1.0.0",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
